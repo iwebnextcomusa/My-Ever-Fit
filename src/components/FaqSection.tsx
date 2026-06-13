@@ -5,7 +5,7 @@ import { FaqItem } from "../types";
 const faqData: FaqItem[] = [
   {
     id: "f1",
-    question: "How do the MyEverFit packages work? Is there an initial contract?",
+    question: "How do the NRG Fitness packages work? Is there an initial contract?",
     answer: "We offer both flexible month-to-month plans as well as discounted 3, 6, and 12-month program architectures. There are no surprise signup fees. General personal training plans start at $149/mo, with specific customization made during our free consultation.",
     category: "membership",
   },
@@ -24,13 +24,13 @@ const faqData: FaqItem[] = [
   {
     id: "f4",
     question: "How do Online Coaching sessions compare to 1-on-1 private workouts?",
-    answer: "Online Coaching is conducted via the state-of-the-art EverFit client dashboard. You receive step-by-step video exercise guides, weekly performance reviews, bio-metrics check-ins, and direct message lines with your coach. It is perfect for self-motivated individuals who want professional structure without physical session constraints.",
+    answer: "Online Coaching is conducted via the state-of-the-art NRG Fitness client dashboard. You receive step-by-step video exercise guides, weekly performance reviews, bio-metrics check-ins, and direct message lines with your coach. It is perfect for self-motivated individuals who want professional structure without physical session constraints.",
     category: "scheduling",
   },
   {
     id: "f5",
     question: "What is your rescheduling or session cancellation protocol?",
-    answer: "We operate a strict 24-hour notification protocol for any booking modifications. This ensures our coaching availability remains optimal for all MyEverFit subscribers. Cancellations or changes made under 24 hours will forfeit that session credit.",
+    answer: "We operate a strict 24-hour notification protocol for any booking modifications. This ensures our coaching availability remains optimal for all NRG Fitness subscribers. Cancellations or changes made under 24 hours will forfeit that session credit.",
     category: "scheduling",
   },
   {
@@ -42,7 +42,7 @@ const faqData: FaqItem[] = [
   {
     id: "f7",
     question: "What should I expect during my free assessment call?",
-    answer: "Your initial 15-minute consultation is a virtual meeting with a lead MyEverFit coach. We will assess your historic physical baselines, talk through structural obstacles, calculate macro-nutrient thresholds, and outline which plan configuration maximizes your speed of results.",
+    answer: "Your initial 15-minute consultation is a virtual meeting with a lead NRG Fitness coach. We will assess your historic physical baselines, talk through structural obstacles, calculate macro-nutrient thresholds, and outline which plan configuration maximizes your speed of results.",
     category: "membership",
   },
 ];

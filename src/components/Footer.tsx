@@ -11,10 +11,10 @@ export default function Footer() {
         <div className="flex flex-col items-center gap-3 mb-8">
           <div className="flex items-center gap-2">
             <div className="w-8 h-8 bg-neon-green rounded-lg flex items-center justify-center font-black text-black italic text-xl">
-              E
+              N
             </div>
             <span className="font-display font-black italic uppercase tracking-tighter text-white text-lg leading-none">
-              MyEver<span className="text-neon-green">Fit</span>
+              NRG <span className="text-neon-green">Fitness</span>
             </span>
           </div>
           <span className="text-[10px] font-mono font-medium tracking-widest text-[#fb923c] uppercase leading-none">
@@ -28,11 +28,11 @@ export default function Footer() {
             <Phone className="w-3.5 h-3.5 text-neon-green" /> (562) 440-0707
           </a>
           <span className="hidden sm:inline text-white/5">|</span>
-          <a href="mailto:coaching@myeverfit.us" className="hover:text-neon-cyan transition-colors flex items-center gap-1.5">
-            <Mail className="w-3.5 h-3.5 text-neon-cyan" /> coaching@myeverfit.us
+          <a href="mailto:coaching@nrgfitness.us" className="hover:text-neon-cyan transition-colors flex items-center gap-1.5">
+            <Mail className="w-3.5 h-3.5 text-neon-cyan" /> coaching@nrgfitness.us
           </a>
           <span className="hidden sm:inline text-white/5">|</span>
-          <span>© {currentYear} MyEverFit Group</span>
+          <span>© {currentYear} NRG Fitness Group</span>
         </div>
 
         {/* Social handles */}

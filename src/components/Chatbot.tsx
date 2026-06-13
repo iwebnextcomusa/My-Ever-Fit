@@ -8,7 +8,7 @@ export default function Chatbot() {
     {
       id: "init",
       role: "assistant",
-      text: "Welcome to MyEverFit! I am EverAI, your virtual fitness advisor. I can break down our coaching philosophies, explain our 1-on-1 private gym packages, outline online metabolic planning, or help you secure a Free Technical Consultation! How can I fuel your journey today?",
+      text: "Welcome to NRG Fitness! I am NRGAI, your virtual fitness advisor. I can break down our coaching philosophies, explain our 1-on-1 private gym packages, outline online metabolic planning, or help you secure a Free Technical Consultation! How can I fuel your journey today?",
       createdAt: new Date().toISOString(),
     },
   ]);
@@ -123,7 +123,7 @@ export default function Chatbot() {
               <div>
                 <div className="flex items-center gap-1.5">
                   <h4 className="font-display font-semibold text-white tracking-tight text-sm">
-                    EverAI Trainer
+                    NRGAI Trainer
                   </h4>
                   <span className="w-1.5 h-1.5 bg-[#39FF14] rounded-full animate-[pulse_1s_infinite]" />
                 </div>

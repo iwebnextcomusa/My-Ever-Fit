@@ -105,7 +105,7 @@ export default function ContactForm() {
 
                 {/* Email block */}
                 <a
-                  href="mailto:coaching@myeverfit.us"
+                  href="mailto:coaching@nrgfitness.us"
                   className="flex items-center gap-4 p-4 rounded-xl border border-white/5 bg-[#12181F]/40 hover:bg-[#12181F]/70 transition-all group"
                 >
                   <div className="w-12 h-12 rounded-xl bg-neon-cyan/10 text-neon-cyan flex items-center justify-center border border-neon-cyan/20 group-hover:scale-105 transition-transform duration-300">
@@ -116,7 +116,7 @@ export default function ContactForm() {
                       EMAIL GENERAL
                     </span>
                     <span className="text-base font-display font-medium text-white group-hover:text-neon-cyan transition-colors">
-                      coaching@myeverfit.us
+                      coaching@nrgfitness.us
                     </span>
                   </div>
                 </a>
@@ -131,7 +131,7 @@ export default function ContactForm() {
                       HQ LOCATION
                     </span>
                     <span className="text-xs text-gray-300">
-                      MyEverFit Pro Gyms, Long Beach, CA 90802
+                      NRG Fitness Pro Gyms, Long Beach, CA 90802
                     </span>
                   </div>
                 </div>
@@ -198,7 +198,7 @@ export default function ContactForm() {
                     Message Swifly Transmitted!
                   </h3>
                   <p className="text-gray-400 text-sm max-w-md mx-auto leading-relaxed">
-                    Thank you for reaching out to MyEverFit. Our coaching dispatch division has received your goals. Expect a response or call in a few hours.
+                    Thank you for reaching out to NRG Fitness. Our coaching dispatch division has received your goals. Expect a response or call in a few hours.
                   </p>
                 </div>
                 <button

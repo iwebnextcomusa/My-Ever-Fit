@@ -123,7 +123,7 @@ const servicePackages: Package[] = [
       "Fully guided custom meal plans",
       "Quarterly biomechanical reviews",
       "Direct 24/7 emergency coach line",
-      "Premium MyEverFit gym apparel kit",
+      "Premium NRG Fitness gym apparel kit",
     ],
   },
 ];
@@ -189,7 +189,7 @@ export default function App() {
               </h1>
 
               <p className="text-zinc-400 text-base md:text-lg max-w-xl leading-relaxed">
-                Unlock your absolute physical potential. At <strong>MyEverFit</strong>, we specialize in 1-on-1 private training, online metabolic architecture, and elite strength plans engineered to build pain-free performance and athletic longevity. No gimmicks, just results.
+                Unlock your absolute physical potential. At <strong>NRG Fitness</strong>, we specialize in 1-on-1 private training, online metabolic architecture, and elite strength plans engineered to build pain-free performance and athletic longevity. No gimmicks, just results.
               </p>
 
               {/* CTAs */}
@@ -377,7 +377,7 @@ export default function App() {
                 </div>
 
                 <blockquote className="text-gray-300 italic text-xs leading-relaxed border-l-2 border-neon-pink/40 pl-3">
-                  "At MyEverFit, we reject the legacy culture of fatigue and dehydration. Elite fitness is calculated. Your biomechanics and daily caloric thresholds determine your limits. Optimize these index points, and elite performance is effortless."
+                  "At NRG Fitness, we reject the legacy culture of fatigue and dehydration. Elite fitness is calculated. Your biomechanics and daily caloric thresholds determine your limits. Optimize these index points, and elite performance is effortless."
                 </blockquote>
 
                 <div className="space-y-2 pt-2 text-xs font-mono">
@@ -409,7 +409,7 @@ export default function App() {
             {/* Copy Content Right */}
             <div className="lg:col-span-7 space-y-6 text-left order-1 lg:order-2">
               <div className="inline-flex items-center gap-1.5 px-3 py-1 rounded-full bg-neon-pink/10 text-neon-pink text-xs font-mono font-medium tracking-widest border border-neon-pink/20 mb-2 uppercase">
-                <HeartPulse className="w-3.5 h-3.5" /> THE MYEVERFIT PHILOSOPHY
+                <HeartPulse className="w-3.5 h-3.5" /> THE NRG FITNESS PHILOSOPHY
               </div>
 
               <h2 className="text-3xl sm:text-5xl font-display font-medium text-white tracking-tight leading-none mb-4">
@@ -418,7 +418,7 @@ export default function App() {
               </h2>
 
               <p className="text-gray-300 text-sm sm:text-base leading-relaxed">
-                Many modern gyms dictate uncalculated, heavy fatigue workouts that lead to joint degradation and mental exhaustion. At MyEverFit, we implement **kinesiology-first techniques**.
+                Many modern gyms dictate uncalculated, heavy fatigue workouts that lead to joint degradation and mental exhaustion. At NRG Fitness, we implement **kinesiology-first techniques**.
               </p>
 
               <div className="space-y-4 font-display">
@@ -453,7 +453,7 @@ export default function App() {
                   <div>
                     <h4 className="text-base font-semibold text-white tracking-tight">Structured progressive adaptation</h4>
                     <p className="text-xs text-gray-400 leading-relaxed mt-0.5">
-                      Weekly volume profiling inside the EverFit App ensures you scale weights correctly to build muscles safely and maintain long-term metabolic health.
+                      Weekly volume profiling inside the NRG Fitness App ensures you scale weights correctly to build muscles safely and maintain long-term metabolic health.
                     </p>
                   </div>
                 </div>

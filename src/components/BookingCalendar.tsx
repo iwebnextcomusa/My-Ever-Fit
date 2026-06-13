@@ -407,7 +407,7 @@ export default function BookingCalendar() {
               Assessment Confirmed!
             </h3>
             <p className="text-gray-400 max-w-lg mx-auto text-sm">
-              We have locked in your spot in the MyEverFit consultation queue. An expert coach will reach out to you via the contact info provided shortly.
+              We have locked in your spot in the NRG Fitness consultation queue. An expert coach will reach out to you via the contact info provided shortly.
             </p>
           </div>
 

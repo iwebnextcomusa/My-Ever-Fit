@@ -8,7 +8,7 @@ const clientTestimonials: Testimonial[] = [
     name: "Sarah Miller",
     role: "Mother of 2 & Business Owner",
     rating: 5,
-    text: "MyEverFit completely redefined my fitness approach. The macro coaching and custom progressive workouts allowed me to shed 22 lbs in 12 weeks while maintaining high energy. I feel stronger than I did in my 20s!",
+    text: "NRG Fitness completely redefined my fitness approach. The macro coaching and custom progressive workouts allowed me to shed 22 lbs in 12 weeks while maintaining high energy. I feel stronger than I did in my 20s!",
     beforeImg: "From fatigued & constant back fatigue",
     afterImg: "Active, energetic, and fat-to-muscle transformation",
     stat: "-22 lbs & +6% Muscle Mass",
@@ -18,7 +18,7 @@ const clientTestimonials: Testimonial[] = [
     name: "Marcus Vance",
     role: "Senior Software Engineer",
     rating: 5,
-    text: "Sitting at a desk 10 hours a day destroyed my posture and core. Marcus and MyEverFit crafted a science-backed routine integrating mobility. In 90 days, my deadlift rose by 85 lbs, posture is flawless, and chronic discomfort is completely gone.",
+    text: "Sitting at a desk 10 hours a day destroyed my posture and core. Marcus and NRG Fitness crafted a science-backed routine integrating mobility. In 90 days, my deadlift rose by 85 lbs, posture is flawless, and chronic discomfort is completely gone.",
     beforeImg: "Slouched posture & constant shoulder strain",
     afterImg: "Functional muscle, athletic power, and pain-free joints",
     stat: "+85 lbs Lift & Pain-Free Joints",
@@ -28,7 +28,7 @@ const clientTestimonials: Testimonial[] = [
     name: "Elena Rostova",
     role: "Corporate Executive",
     rating: 5,
-    text: "The Online Coaching program from MyEverFit is stellar. The weekly check-ins, macro target adjustments, and training routine optimized around my heavy travel schedule gave me a structured routine that is actually sustainable.",
+    text: "The Online Coaching program from NRG Fitness is stellar. The weekly check-ins, macro target adjustments, and training routine optimized around my heavy travel schedule gave me a structured routine that is actually sustainable.",
     beforeImg: "Inconsistent workouts & travel-related burnout",
     afterImg: "Consistent daily routine, structured nutrition, and toned frame",
     stat: "Body Fat Dropped from 28% to 19%",
@@ -54,7 +54,7 @@ export default function TestimonialsSection() {
             Real Transformations, <span className="text-neon-green">Sustainable</span> Results
           </h2>
           <p className="text-gray-400 text-base md:text-lg">
-            We don't believe in quick-fix fad diets. These are real results from MyEverFit clients who committed to a customized program tailored to their bio-individual needs and lifestyle.
+            We don't believe in quick-fix fad diets. These are real results from NRG Fitness clients who committed to a customized program tailored to their bio-individual needs and lifestyle.
           </p>
         </div>
 

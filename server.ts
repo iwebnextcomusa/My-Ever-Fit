@@ -134,10 +134,10 @@ app.post("/api/chat", async (req, res) => {
     return res.status(400).json({ error: "A 'messages' array is required." });
   }
 
-  const sysInstruction = `You are EverAI, the premium virtual coach and booking assistant for MyEverFit (website: myeverfit.us, phone: (562) 440-0707).
-MyEverFit offers:
+  const sysInstruction = `You are NRGAI, the premium virtual coach and booking assistant for NRG Fitness (website: nrgfitness.us, phone: (562) 440-0707).
+NRG Fitness offers:
 - Personal Training (1-on-1 private gym sessions focusing on form, metabolic rate, and customized progressive overload)
-- Online Coaching (custom fitness plans, weekly check-ins via EverFit App, constant chat support)
+- Online Coaching (custom fitness plans, weekly check-ins via NRG Fitness App, constant chat support)
 - Weight Loss Programs (macro coaching, customized low-barrier metabolic workouts, and habit tracking)
 - Strength & Conditioning (powerlifting, athletic performance, and functional mobility)
 - Nutrition Guidance & Custom Fitness Plans (caloric structure, meal plans, body comp transformation)
@@ -155,7 +155,7 @@ When answering questions:
     const ai = getGemini();
     if (!ai) {
       return res.json({
-        text: "Hi there! I am EverAI, your MyEverFit assistant. Note: The GEMINI_API_KEY is currently not configured or pending in your environment. You can still reach us at (562) 440-0707 or book via the form on this page anytime! Training packages start at $149/mo."
+        text: "Hi there! I am NRGAI, your NRG Fitness assistant. Note: The GEMINI_API_KEY is currently not configured or pending in your environment. You can still reach us at (562) 440-0707 or book via the form on this page anytime! Training packages start at $149/mo."
       });
     }
 
