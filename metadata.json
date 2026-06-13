@@ -1,0 +1,6 @@
+{
+  "name": "MyEverFit",
+  "description": "MyEverFit - Premium health, wellness, and fitness coaching. Custom training programs, online coaching, weight loss, and nutrition tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
