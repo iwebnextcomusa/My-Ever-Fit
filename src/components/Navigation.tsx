@@ -55,17 +55,12 @@ export default function Navigation() {
               }}
               className="flex items-center gap-2 transition-all duration-300 transform hover:scale-[1.02]"
             >
-              <div className="w-8 h-8 bg-neon-green rounded-lg flex items-center justify-center font-black text-black italic text-xl">
-                N
-              </div>
-              <div className="flex flex-col">
-                <span className="font-display font-black italic uppercase tracking-tighter text-white text-xl md:text-2xl leading-none">
-                  NRG <span className="text-neon-green">Fitness</span>
-                </span>
-                <span className="text-[9px] font-mono font-medium tracking-widest text-[#fb923c] uppercase mt-0.5 leading-none">
-                  Coaching Group
-                </span>
-              </div>
+              <img 
+                src="/logo.svg" 
+                alt="NRG Fitness Logo" 
+                className="h-10 md:h-12 w-auto object-contain" 
+                referrerPolicy="no-referrer"
+              />
             </a>
 
             {/* Desktop Navigation Links */}

@@ -9,17 +9,12 @@ export default function Footer() {
         
         {/* Branding */}
         <div className="flex flex-col items-center gap-3 mb-8">
-          <div className="flex items-center gap-2">
-            <div className="w-8 h-8 bg-neon-green rounded-lg flex items-center justify-center font-black text-black italic text-xl">
-              N
-            </div>
-            <span className="font-display font-black italic uppercase tracking-tighter text-white text-lg leading-none">
-              NRG <span className="text-neon-green">Fitness</span>
-            </span>
-          </div>
-          <span className="text-[10px] font-mono font-medium tracking-widest text-[#fb923c] uppercase leading-none">
-            Premium Sports Conditioning
-          </span>
+          <img 
+            src="/logo.svg" 
+            alt="NRG Fitness Logo" 
+            className="h-12 md:h-14 w-auto object-contain" 
+            referrerPolicy="no-referrer"
+          />
         </div>
 
         {/* Short coordinates summary */}
